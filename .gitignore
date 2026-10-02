@@ -32,4 +32,5 @@ dbv2/
 src/
 # json file
 chunks_export.json/
-rag_results.json
+rag_results.json/
+chunks_export.json/
